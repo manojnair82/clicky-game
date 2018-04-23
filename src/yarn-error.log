@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\M308241\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js start
+
+PATH: 
+  C:\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\bin;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32\compiler;C:\Program Files\Teradata\Client\15.10\bin;C:\Program Files (x86)\Teradata\Client\15.10\bin;C:\Sybase\DBISQL\bin;C:\Sybase\DataAccess\ADONET\dll;C:\Sybase\DataAccess\ODBC\dll;C:\Sybase\DataAccess\OLEDB\dll;C:\Sybase\OCS-15_0\lib3p;C:\Sybase\OCS-15_0\dll;C:\Sybase\OCS-15_0\bin;C:\Program Files (x86)\Common Files\Business Objects\3.0\bin\NOTES\DATA;C:\Program Files (x86)\Common Files\Business Objects\3.0\bin\NOTES;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Dell\Dell Data Protection\Encryption;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\PROGRA~2\IBM\SQLLIB\BIN;C:\PROGRA~2\IBM\SQLLIB\FUNCTION;C:\windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\Git\cmd;C:\Users\M308241\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn;C:\Users\M308241\AppData\Local\Continuum\Anaconda3;C:\Users\M308241\AppData\Local\Continuum\Anaconda3\Scripts;C:\Users\M308241\AppData\Local\Continuum\Anaconda3\Library\bin;C:\Program Files\Heroku\bin;C:\Users\M308241\Desktop\code\Projects\CityExplorer-master;C:\Heroku\bin;C:\Users\M308241\AppData\Roaming\npm;C:\Users\M308241\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.4
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "C:\\Users\\M308241\\Desktop\\code\\ucb-blended-week\\Week 20\\React Activities\\Friend Finder Solution\\Solved\\src"
+      at new MessageError (C:\Users\M308241\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at C:\Users\M308241\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (C:\Users\M308241\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:98:30)
+      at C:\Users\M308241\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:109:13
+      at <anonymous>
